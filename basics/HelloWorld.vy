@@ -7,4 +7,4 @@ greet: public(String[100])
 def __init__():
   self.greet = "Hello World"
 
-# To compile: vyper HelloWorld.vy
+# To compile: vyper basics/HelloWorld.vy
